@@ -1,4 +1,4 @@
-This repository contains the source code of the paper "A Hierarchical Entity Graph Convolutional Network for Multi-hop Relation Extraction across Documents" published in RANLP 2021.
+This repository contains the source code of the paper "A Hierarchical Entity Graph Convolutional Network for Relation Extraction across Documents" published in RANLP 2021.
 
 ### Datasets ###
 
